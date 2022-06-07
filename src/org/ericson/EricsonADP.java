@@ -12,4 +12,9 @@ public class EricsonADP {
 
 	}
 
+	private void employeeAddress() {
+		System.out.println("Employee Address:Chennai");
+
+	}
+
 }
