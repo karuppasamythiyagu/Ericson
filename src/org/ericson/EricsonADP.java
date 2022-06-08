@@ -12,9 +12,13 @@ public class EricsonADP {
 
 	}
 
+	private void employeeAddress() {
+		System.out.println("Employee Address:Chennai");
+
+	}
+
 	private void employeeSalary() {
 		System.out.println("Employee Salary:20K");
-
 	}
 
 }
